@@ -1,5 +1,7 @@
 "# genetic_algorithm_impl" 
 
+sources of projects:
+
 snake => https://www.youtube.com/watch?v=SGxVaptD9Ug
 
 steering
